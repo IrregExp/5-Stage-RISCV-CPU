@@ -10,6 +10,7 @@
 Using the block diagram shown in "Computer Organization and Design RISC-V Edition" on
 page 699, along with the supporting documentation presented throughout the book on the
 subject, the following modules were created:
+
 	* Program Counter (simple 8 bit flip-flop)
 	* 32x64 Instruction Memory (ROM, where instructions are manually added)
 	* 32x32 Register file
